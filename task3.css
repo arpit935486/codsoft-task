@@ -1,0 +1,123 @@
+body{
+    background-color: black;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(223, 230, 31);
+}
+.cal{
+    background-color: rgba(118, 116, 116, 0.871);
+    width: 40vw;
+    height: 600px;
+    margin: auto;
+    place-items: center;
+    border-radius: 30px;
+}
+.row input{
+    margin: auto;
+    margin-top: 10px;
+    width: 38vw;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 50px;
+}
+.row{
+    text-align: center;
+    display: flex;
+}
+.row .button1{
+    width: 300px;
+}
+.row button{
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 70px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .cal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+}
+.cula{
+    background-color: #808080;
+    padding: 21px;
+    border-radius: 12px;
+}
+.cula form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+    margin: 10px;
+    background-color: #a19b9b;
+}
+form .ter{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+    background-color: #a19b9b;
+}
+form .ter input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+    background-color: white;
+}
+form input.btn{
+    width: 145px;
+    color: rgb(247, 69, 25);
+    background-color: #a19b9b;
+}
+form input.Icu{
+        color: rgb(247, 69, 25);
+        background-color: #a19b9b;
+} */
