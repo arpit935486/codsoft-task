@@ -1,0 +1,354 @@
+* {
+    margin: 0%;
+}
+
+#main h6{
+
+    font-family: "Caveat", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#main h6{
+    font-family: "Caveat", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+#main h6{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 600px;
+    font-size: 20px;
+}
+#main{
+    display: flex;
+    /* justify-content: space-between; */
+}
+#main a{
+    text-decoration: none;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    justify-items: auto;
+    color: black;
+}
+.para1{
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 40vw;
+    
+}
+.para1 h1{
+    font-size: 70px;
+}
+
+.para1 p{
+    font-size: 25px;
+    margin-top: 50px;
+}
+.para1 img{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+.para1 button{
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+    margin-right: 50px;
+    background-color: rgb(79, 28, 174);
+    color: aliceblue;
+}
+.image1{
+    float: right;
+    width: 50vw;
+    margin-right: 50px;
+}
+.para3{
+    margin-top: 100px;
+    float: right;
+    margin-right: 50px ;
+    width: 50vw;
+}
+.para3 h3{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.para3 img{
+    width: 50px;
+    height: 50px;    margin-top: 50px;
+
+}
+.para3 p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.image2{
+    margin-top: 100px;
+    margin-left: 50px;
+    float: left;
+    width: 40vw;
+    height: 450px;
+}
+.para4 h1{
+    margin-top: 1300px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.para4 p{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 35px;
+}
+.para5{
+    width: 50vw;
+    height: 25px;
+    background-color: rgb(156, 159, 156);
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.para5 input{
+    border-radius: 50px;
+    width: 45vw;
+    height: 20px;
+    margin-left: 0px;
+    background-color: darkgreen;
+}
+.para6{
+    width: 50vw;
+    height: 25px;
+    background-color: rgb(156, 159, 156);
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.para6 input{
+    border-radius: 50px;
+    width: 40vw;
+    height: 20px;
+    margin-left: 0px;
+    background-color: darkgreen;
+}
+.para7{
+    width: 50vw;
+    height: 25px;
+    background-color: rgb(156, 159, 156);
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.para7 input{
+    border-radius: 50px;
+    width: 35vw;
+    height: 20px;
+    margin-left: 0px;
+    background-color: darkgreen;
+}
+.image3{
+    margin-top: -700px;
+    margin-right: 50px;
+    float: right;
+    width: 40vw;
+    height: 750px;
+}
+#a1{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.para9{
+    width: 40vw;
+    height: 100px;
+    margin: 50px;
+    padding: 20px;
+    background-color: azure;
+}
+.para9 h4{
+    font-size: 30px;
+    margin: 5px;
+}
+.para9 p{
+    font-size: 15px;
+    margin: 5px;
+}
+.para8{
+    display: flex;
+}
+.para10{
+    display: flex;
+}
+.para11{
+    display: flex;
+}
+
+
+#a2{
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    background-color: rgb(77, 77, 151);
+    color: white;
+    text-align: center;
+    margin-left: 680px;
+    margin-right: 680px;
+}
+
+
+.para12 h1{
+    font-size: 50px;
+    margin: 50px;
+}
+.para12 p{
+    font-size: 20px;
+    margin: 50px;
+}
+.para13 img{
+        width: 200px;
+        height: 200px;
+        margin: 50px;
+}
+#a3{
+    font-size: 35px;
+    margin: 50px;
+}
+#a4{
+    font-size: 20px;
+    margin: 50px;
+}
+
+
+.para14{
+    margin: 50px;
+    display: flex;
+}
+
+.para15{
+    width: 400px;
+    height: 500px;
+    margin: 50px;
+    text-align: center;
+    background-color: azure;
+}
+.para15 h5{
+    margin: 10px;
+    font-size: 20px;
+}
+.para15 img{
+    width: 300px;
+    height: 300px;
+}
+
+.para16{
+    display: flex;
+    margin: 50px;
+}
+#a5{
+    margin: 50px;
+    font-size: 50px;
+}
+#a6{
+    margin: 50px;
+    font-size: 25px;
+}
+.para17{
+    background-color: azure;
+}
+.para17 h6{
+    font-size: 35px;
+    padding: 10px;
+    margin: 10px;
+}
+.para17 p{
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+#a7{
+    margin: 50px;
+    font-size: 50px;
+}
+#a8{
+    margin: 50px;
+    font-size: 25px;
+}
+.para18{
+    background-color: rgb(244, 245, 245);
+    width: 400px;
+    height: 300px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.para19{
+    background-color: rgb(90, 90, 223);
+    color: white;
+    font-size: 50px;
+    padding: 20px;
+    height: 100px;
+    width: 360px;
+    border-radius: 0 0 80px 80px;
+}
+.para20 p{
+    margin: 30px;
+    font-size: 20px;
+}
+.para20 button{
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    background-color: darkslateblue;
+    color: white;
+    
+}
+#a9{
+    margin: 50px;
+    font-size: 50px;
+}
+#a10{
+    margin: 50px;
+    font-size: 25px;
+}
+iframe{
+    margin-left: 300px;
+    width: 900px;
+    height: 500px;
+}
+audio{
+    margin-left: 100px;
+    background-color: aqua;
+    height: 50px;
+    width: 500px;
+}
+#a11{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+#a12{
+    margin: 50px;
+    font-size: 30px;
+}
+#a13{
+    margin-left: 50px;
+    font-size: 15px;
+}
+.para21{
+    margin-left: 50px;
+}
+.para21 img{
+    width: 50px;
+    height: 50px;
+    
+}
+#a14{
+    width: 300px;
+    height: 300px;
+    margin-top: -100px;
+    margin-right: 100px;
+    float: right;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    
+}
